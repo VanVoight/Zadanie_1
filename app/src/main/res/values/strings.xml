@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_v">Polacy to dwukrotni mistrzowie świata z rzędu w siatkówce mężczyzn</string>
+    <string name="q_vo">Bartosz Kurek to rozgrywający</string>
+    <string name="q_voll">ZAKSA Kędzierzyn Koźle to trzykrotny zwycięzca ligii mistrzów</string>
+    <string name="q_volley">Jest 6 stref na boisku siatkarskim</string>
+    <string name="q_volleyball">Nigdy nie ma dwóch środkowych na boisku</string>
+    <string name="correct_answer">Prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź</string>
+</resources>
